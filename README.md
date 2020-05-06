@@ -7,8 +7,8 @@ You can download either the whole repository or zipped files for each of availab
 
 ## Speakers
 
-1. Natalia Alvarado, Introduction to R-Ladies Gothenburg, [get the file](https://github.com/rladies-got/01meet_introduction/blob/master/rladies_intro.zip)
+1. Natalia Alvarado, [The Quality of Government Institute at GU](https://pol.gu.se/english/about-us/staff?languageId=100001&userId=xalvna), ["Introduction to R-Ladies Gothenburg"](https://github.com/rladies-got/01meet_introduction/blob/master/rladies_intro.zip)
 
-2. Erica Metheney, Basic R
+2. Erica Metheney, [Governance and Local Government Program at GU](https://pol.gu.se/english/about-us/staff?languageId=100001&userId=xmeter), "Basic R"
 
-3. Nina Ilchenko, Data Transformation with {dplyr}, [get the file](https://github.com/rladies-got/01meet_introduction/blob/master/dplyr_cleaning.zip)
+3. Nina Ilchenko, [V-Dem Institute at GU](https://pol.gu.se/english/about-us/staff?languageId=100001&userId=xilcni), ["Data Transformation with {dplyr}"](https://github.com/rladies-got/01meet_introduction/blob/master/dplyr_cleaning.zip)
